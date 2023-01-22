@@ -8,7 +8,7 @@ from setuptools import find_packages, setup
 # Package meta-data.
 NAME = 'Gradient-Boosting-Model'
 DESCRIPTION = "Gradient boosting regression model."
-URL = "https://github.com/MvMukesh/monitoring-testing_deployments"
+URL = "https://github.com/MvMukesh/Monitoring_Testing-Deployments"
 EMAIL = "mukeshmanral777@gmail.com"
 AUTHOR = "MukeshManral"
 REQUIRES_PYTHON = ">=3.6.0"
