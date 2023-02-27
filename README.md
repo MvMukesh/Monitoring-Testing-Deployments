@@ -1,5 +1,9 @@
 # Monitoring and Testing Machine Learning Deployments
 
+**`ML pipelines setup plus automated CI/CD routines`**
+
+![mlops_cicd](https://user-images.githubusercontent.com/26667491/221462199-e714ae80-c84f-4398-a468-df4a04c574ac.png)
+
 <pre>
 .
 ├── README.md
