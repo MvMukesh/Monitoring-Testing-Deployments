@@ -11,16 +11,17 @@
 <a href="https://www.instagram.com/manralai/"><img src="https://img.shields.io/badge/Instagram-411AFF?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
 </div>
 
-# Monitoring and Testing Machine Learning Deployments
+<h2>
+    <p align="center">
+        ᪲᪲᪲ ♾️  ᪲᪲᪲ Monitoring & Testing ML Deployments 🛠️
+    </p>
+</h2>
+
 [![GitHub Issues](https://img.shields.io/github/issues/MvMukesh/Monitoring-N-Testing-Deployments.svg) ![GitHub followers](https://img.shields.io/github/followers/MvMukesh.svg?style=social\&label=Follow\&maxAge=2592000)](https://github.com/MvMukesh?tab=followers) [![GitHub forks](https://img.shields.io/github/forks/MvMukesh/Monitoring-N-Testing-Deployments.svg?style=social\&label=Fork\&maxAge=2592000)](https://github.com/MvMukesh/Monitoring-N-Testing-Deployments/network/) [![GitHub stars](https://img.shields.io/github/stars/MvMukesh/Monitoring-N-Testing-Deployments.svg?style=social\&label=Star\&maxAge=2592000)](https://github.com/MvMukesh/Monitoring-N-Testing-Deployments/stargazers/)
 
-**`ML pipelines setup plus automated CI/CD routines`**
+<hr>
 
-![mlops_cicd](https://user-images.githubusercontent.com/26667491/221462199-e714ae80-c84f-4398-a468-df4a04c574ac.png)
-
-
-# Tree
-
+## 📂`Directory Tree`
 <pre>
 .
 ├── README.md
@@ -196,10 +197,17 @@
     └── requirements.txt
 </pre>
 
+
+<hr>
+
+## 🚰`ML pipelines setup + Automated CI/CD routines`
+
+![mlops_cicd](https://user-images.githubusercontent.com/26667491/221462199-e714ae80-c84f-4398-a468-df4a04c574ac.png)
+
 <p align="center">
   <kbd><img src="https://user-images.githubusercontent.com/26667491/221332315-4716d85d-6e4b-4493-a363-94302d376163.png" alt="ml_lifecycle.png"></kbd>
 </p>
 
-## Resources
+## 🔗Resources
 * [Google Cloud Architecture Center](https://cloud.google.com/architecture/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning)
 * [Google ML](https://developers.google.com/machine-learning)
